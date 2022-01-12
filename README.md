@@ -2,22 +2,23 @@
 #### This is a website from a software developer {Jan. 2022}
 #### By **Afrikan Son**
 ## Description
-This is a website that contains a page that generates an Akan Name, from the Ghanaian community.
+This is a website that contains a page that shows the Delani website.
 ## Setup/Installation Requirements
 * Clone the repository using this command:
 ```
-git clone https://github.com/Afrikan-Son/akan-name-project.git
+git clone https://github.com/Afrikan-Son/delani-studio.git
 ```
 * Open  the folder using your favourite text editor
 * Run the index using live server
 
 ## Live link
-https://afrikan-son.github.io/akan-name-project/
+https://afrikan-son.github.io/delani-studio/
 
 ## Known Bugs
 There are no bugs in the website.
 ## Technologies that are Used
  HTML
+ CSS
  JavaScript
 ## Support and contact details
 theafrikanson@gmail.com
