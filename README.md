@@ -16,7 +16,7 @@ https://afrikan-son.github.io/akan-name-project/
 
 ## Known Bugs
 There are no bugs in the website.
-## Technologies Used
+## Technologies that are Used
  HTML
  JavaScript
 ## Support and contact details
