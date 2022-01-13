@@ -21,3 +21,7 @@ h1 {
   .contact {
     background: url("../images/backgrounds/c_image.jpg") center no-repeat;
   }
+
+  .testing{
+    text-align: center;
+  }
